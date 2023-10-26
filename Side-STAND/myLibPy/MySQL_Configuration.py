@@ -53,7 +53,7 @@ class dataBaseMySQL:
   def __init__(self, configDB):
     
     self.connexionDB = mysql.connector.connect(**configDB)
-    self.curseur = self.connexionDB.cursor()
+    self.curseur = self.connexionDB.cursor(buffered=True,dictionary=True)
     
   def createTable(self, sqlRequest, sqlParam):
     
@@ -64,15 +64,40 @@ class dataBaseMySQL:
     
     self.executeSQL(sqlRequest, sqlParam)
     self.validate()
-
-  def executeSQL(self, sqlRequest, sqlParam):
     
+  def dropTable(self, sqlRequest):
+    
+    self.executeSQL(sqlRequest, None)
+    self.validate()
+    
+  def updateIntoTable(self, sqlRequest):
+    
+    self.executeSQL(sqlRequest, None)
+    self.validate()
+    
+  def listData(self, sqlRequest, sqlParam):
+    
+    self.executeSQL(sqlRequest, None)
+    self.validate()
+    
+  def showData(self):
+    
+    reponse = self.curseur.fetchall()
+
+    for r in reponse:
+      
+      print(r)
+      print("\n")
+            
+  def executeSQL(self, sqlRequest, sqlParam):
  
     try:
         if sqlParam:
-    
+            
             self.curseur.execute(sqlRequest, sqlParam)
+            
         else:
+            
             self.curseur.execute(sqlRequest)
     except Exception as err:
         # afficher le message d'erreur système
@@ -81,7 +106,7 @@ class dataBaseMySQL:
         return 0
     else:
         # afficher l'exécution réussie de la requête
-        print("\nRequête exécutée")
+        #print("\nRequête exécutée")
         return 1
     
   def validate(self):
@@ -132,24 +157,76 @@ def mergedIntoMySQLForRX(configDB, values, keys, JSONBrut):
   DBMySQL.close()
 
 
-def mergedIntoMySQLForTX(configDB, values, keys, JSONBrut):
+def mergedIntoMySQLForTX(configDB):
+  
   testConnexionToDataBase(configDB)
   
   DBMySQL = dataBaseMySQL(configDB)
   
   requete_CREATE_TableTX = "CREATE TABLE IF NOT EXISTS DATA_TX ( \
       id int primary key auto_increment,\
-      alert_Maintenance int default 0,\
+      alert_Maintenance bool default FALSE,\
       start_Chrono bool default FALSE,\
       stop_Chrono bool default FALSE,\
-      time date not null, \
+      time CHAR(30), \
       RX bool default FALSE,\
       TX bool default FALSE\
   )"
-  MySQL.createTable(requete_CREATE_TableTX, None)
   
-  #To Code There, send value when the alert_Maintenance is HIGH !
-  # SELECT --> CHECK-LOCAL --> UPDATE
+  DBMySQL.createTable(requete_CREATE_TableTX, None)
+  
+  requete_SELECT_TableTX = "SELECT * FROM DATA_TX"
+  
+  DBMySQL.executeSQL(requete_SELECT_TableTX, None)
+  
+  dataInTable = DBMySQL.curseur.fetchall()
+  
+  if(not dataInTable):
+    
+    requete_INSERT_TableTX = "INSERT INTO DATA_TX (alert_Maintenance, start_Chrono, stop_Chrono, time, RX, TX) VALUES (O, 0, 0, 0, 0, 0)"
+    
+    DBMySQL.insertIntoTable(requete_INSERT_TableTX, None )
+    
+    return None
+  
+  else :
+    
+    informationToReturn = []
+    
+    if(dataInTable[0]["alert_Maintenance"] == 1):
+      
+      requete_UPDATE_TableTX = "UPDATE DATA_TX SET alert_Maintenance = 0 where id = 1"
+      
+      DBMySQL.updateIntoTable(requete_UPDATE_TableTX)
+      
+      informationToReturn.append({"Alert" : 1})
+      
+      #Alert Array !
+      
+    if(dataInTable[0]["start_Chrono"] == 1):
+      requete_UPDATE_TableTX = "UPDATE DATA_TX SET start_Chrono = 0 where id = 1"
+      
+      #Alert Array !
+      
+      DBMySQL.updateIntoTable(requete_UPDATE_TableTX)
+      
+      informationToReturn.append({"Start-Chrono" : 1})
+      
+    if(dataInTable[0]["stop_Chrono"] == 1):
+      requete_UPDATE_TableTX = "UPDATE DATA_TX SET stop_Chrono = 0 where id = 1"
+      
+      DBMySQL.updateIntoTable(requete_UPDATE_TableTX)
+    
+      #Alert Array !
+      
+      informationToReturn.append({"Stop-Chrono" : 1})
+   
+    if(not informationToReturn):
+      
+      return None
+    
+    else:
+      return informationToReturn
   
   DBMySQL.close()
   
