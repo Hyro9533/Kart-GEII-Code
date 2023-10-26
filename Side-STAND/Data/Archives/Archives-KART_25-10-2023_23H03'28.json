@@ -1,0 +1,102 @@
+[
+    {
+        "1": {
+            "Value(s)": {
+                "GPS": [
+                    603.3192,
+                    -126.215
+                ],
+                "acceleration": 75.42,
+                "brake": 57.92,
+                "current": 179.7,
+                "speed": 0.0,
+                "temp1": 27.2,
+                "temp2": 167.97,
+                "temp3": 62.23,
+                "tensionBB": 12.0,
+                "tensionSB": 46.0,
+                "time": 15844948530.583332
+            }
+        }
+    },
+    {
+        "2": {
+            "Value(s)": {
+                "GPS": [
+                    759.4497,
+                    256.3954
+                ],
+                "acceleration": 33.58,
+                "brake": 85.34,
+                "current": 91.2,
+                "speed": 49.0,
+                "temp1": 128.64,
+                "temp2": 150.16,
+                "temp3": 193.79,
+                "tensionBB": 12.3,
+                "tensionSB": 44.7,
+                "time": 13534242088.677647
+            }
+        }
+    },
+    {
+        "3": {
+            "Value(s)": {
+                "GPS": [
+                    328.8139,
+                    561.3245
+                ],
+                "acceleration": 98.31,
+                "brake": 77.04,
+                "current": 66.7,
+                "speed": 31.0,
+                "temp1": 31.03,
+                "temp2": 33.4,
+                "temp3": 152.75,
+                "tensionBB": 12.3,
+                "tensionSB": 45.2,
+                "time": 19594844428.90927
+            }
+        }
+    },
+    {
+        "4": {
+            "Value(s)": {
+                "GPS": [
+                    -320.5441,
+                    370.2333
+                ],
+                "acceleration": 80.48,
+                "brake": 86.93,
+                "current": 79.2,
+                "speed": 47.0,
+                "temp1": 113.18,
+                "temp2": 109.68,
+                "temp3": 107.7,
+                "tensionBB": 12.3,
+                "tensionSB": 44.8,
+                "time": 17916055157.411407
+            }
+        }
+    },
+    {
+        "5": {
+            "Value(s)": {
+                "GPS": [
+                    465.8526,
+                    -441.0034
+                ],
+                "acceleration": 93.04,
+                "brake": 47.03,
+                "current": 295.3,
+                "speed": 45.0,
+                "temp1": 87.75,
+                "temp2": 110.13,
+                "temp3": 95.04,
+                "tensionBB": 12.8,
+                "tensionSB": 48.3,
+                "time": 11170836510.512281
+            }
+        }
+    }
+]
