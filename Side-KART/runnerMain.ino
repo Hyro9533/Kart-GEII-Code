@@ -16,7 +16,7 @@ void setup() {
 
   erial.begin(9600);
 
-  
+
   pModuleLoRa->init(10, 0, 1);
   
 
@@ -37,6 +37,8 @@ void loop() {
     "temp1", // ???? SPI MODE 
     "temp2", // ???? SPI MODE 
     "temp3", // ???? SPI MODE
+    "temp4",
+    "temp5",
     Capteur_DE_Maxime(A1), // Sensor : Acceleration
     Capteur_DE_Maxime(A0), // Sensor : Brake
     Capteur_DE_Maxime(A6), // Sensor : TensionBB

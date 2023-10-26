@@ -1,0 +1,432 @@
+[
+  {
+    "id": 1,
+    "temp1": "99.96",
+    "temp2": "185.38",
+    "temp3": "134.07",
+    "temp4": "199.82",
+    "temp5": "69.38",
+    "acceleration": "18.74",
+    "brake": "13.29",
+    "tensionBB": "12.2",
+    "tensionSB": "45.5",
+    "current": "8.9",
+    "speed": "13.0",
+    "GPS": {
+      "Latitude": "539.1261",
+      "Longitutde": "576.7595"
+    },
+    "time": "17746582085.130688",
+    "RX": 1,
+    "TX": 0,
+    "Archives_BRUT_Values": {
+      "61": {
+        "Value(s)": {
+          "GPS": [
+            576.7595,
+            539.1261
+          ],
+          "time": 17746582085.130688,
+          "brake": 13.29,
+          "speed": 13,
+          "temp1": 99.96,
+          "temp2": 185.38,
+          "temp3": 134.07,
+          "temp4": 199.82,
+          "temp5": 69.38,
+          "current": 8.9,
+          "tensionBB": 12.2,
+          "tensionSB": 45.5,
+          "acceleration": 18.74
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "temp1": "5.5",
+    "temp2": "172.14",
+    "temp3": "103.12",
+    "temp4": "80.0",
+    "temp5": "40.75",
+    "acceleration": "83.96",
+    "brake": "6.21",
+    "tensionBB": "12.8",
+    "tensionSB": "46.3",
+    "current": "284.6",
+    "speed": "1.0",
+    "GPS": {
+      "Latitude": "359.9038",
+      "Longitutde": "-228.5318"
+    },
+    "time": "11444735020.187666",
+    "RX": 1,
+    "TX": 0,
+    "Archives_BRUT_Values": {
+      "62": {
+        "Value(s)": {
+          "GPS": [
+            -228.5318,
+            359.9038
+          ],
+          "time": 11444735020.187666,
+          "brake": 6.21,
+          "speed": 1,
+          "temp1": 5.5,
+          "temp2": 172.14,
+          "temp3": 103.12,
+          "temp4": 80,
+          "temp5": 40.75,
+          "current": 284.6,
+          "tensionBB": 12.8,
+          "tensionSB": 46.3,
+          "acceleration": 83.96
+        }
+      }
+    }
+  },
+  {
+    "id": 3,
+    "temp1": "94.6",
+    "temp2": "44.52",
+    "temp3": "86.12",
+    "temp4": "69.05",
+    "temp5": "78.77",
+    "acceleration": "88.03",
+    "brake": "26.45",
+    "tensionBB": "12.1",
+    "tensionSB": "44.8",
+    "current": "186.8",
+    "speed": "66.0",
+    "GPS": {
+      "Latitude": "759.2871",
+      "Longitutde": "-332.3329"
+    },
+    "time": "12212402765.807209",
+    "RX": 1,
+    "TX": 0,
+    "Archives_BRUT_Values": {
+      "63": {
+        "Value(s)": {
+          "GPS": [
+            -332.3329,
+            759.2871
+          ],
+          "time": 12212402765.807207,
+          "brake": 26.45,
+          "speed": 66,
+          "temp1": 94.6,
+          "temp2": 44.52,
+          "temp3": 86.12,
+          "temp4": 69.05,
+          "temp5": 78.77,
+          "current": 186.8,
+          "tensionBB": 12.1,
+          "tensionSB": 44.8,
+          "acceleration": 88.03
+        }
+      }
+    }
+  },
+  {
+    "id": 4,
+    "temp1": "81.56",
+    "temp2": "134.26",
+    "temp3": "196.93",
+    "temp4": "75.31",
+    "temp5": "164.38",
+    "acceleration": "35.9",
+    "brake": "19.99",
+    "tensionBB": "11.2",
+    "tensionSB": "47.5",
+    "current": "294.0",
+    "speed": "91.0",
+    "GPS": {
+      "Latitude": "511.1532",
+      "Longitutde": "332.8518"
+    },
+    "time": "11562589312.208261",
+    "RX": 1,
+    "TX": 0,
+    "Archives_BRUT_Values": {
+      "64": {
+        "Value(s)": {
+          "GPS": [
+            332.8518,
+            511.1532
+          ],
+          "time": 11562589312.20826,
+          "brake": 19.99,
+          "speed": 91,
+          "temp1": 81.56,
+          "temp2": 134.26,
+          "temp3": 196.93,
+          "temp4": 75.31,
+          "temp5": 164.38,
+          "current": 294,
+          "tensionBB": 11.2,
+          "tensionSB": 47.5,
+          "acceleration": 35.9
+        }
+      }
+    }
+  },
+  {
+    "id": 5,
+    "temp1": "25.06",
+    "temp2": "57.12",
+    "temp3": "173.87",
+    "temp4": "8.99",
+    "temp5": "150.8",
+    "acceleration": "25.15",
+    "brake": "28.03",
+    "tensionBB": "12.3",
+    "tensionSB": "46.8",
+    "current": "113.4",
+    "speed": "42.0",
+    "GPS": {
+      "Latitude": "-984.6506",
+      "Longitutde": "-539.9526"
+    },
+    "time": "19319624458.33004",
+    "RX": 1,
+    "TX": 0,
+    "Archives_BRUT_Values": {
+      "65": {
+        "Value(s)": {
+          "GPS": [
+            -539.9526,
+            -984.6506
+          ],
+          "time": 19319624458.33004,
+          "brake": 28.03,
+          "speed": 42,
+          "temp1": 25.06,
+          "temp2": 57.12,
+          "temp3": 173.87,
+          "temp4": 8.99,
+          "temp5": 150.8,
+          "current": 113.4,
+          "tensionBB": 12.3,
+          "tensionSB": 46.8,
+          "acceleration": 25.15
+        }
+      }
+    }
+  },
+  {
+    "id": 6,
+    "temp1": "193.49",
+    "temp2": "14.9",
+    "temp3": "102.94",
+    "temp4": "159.98",
+    "temp5": "109.86",
+    "acceleration": "43.24",
+    "brake": "98.15",
+    "tensionBB": "11.9",
+    "tensionSB": "45.9",
+    "current": "164.3",
+    "speed": "45.0",
+    "GPS": {
+      "Latitude": "585.1993",
+      "Longitutde": "-540.097"
+    },
+    "time": "16614840174.095486",
+    "RX": 1,
+    "TX": 0,
+    "Archives_BRUT_Values": {
+      "66": {
+        "Value(s)": {
+          "GPS": [
+            -540.097,
+            585.1993
+          ],
+          "time": 16614840174.095486,
+          "brake": 98.15,
+          "speed": 45,
+          "temp1": 193.49,
+          "temp2": 14.9,
+          "temp3": 102.94,
+          "temp4": 159.98,
+          "temp5": 109.86,
+          "current": 164.3,
+          "tensionBB": 11.9,
+          "tensionSB": 45.9,
+          "acceleration": 43.24
+        }
+      }
+    }
+  },
+  {
+    "id": 7,
+    "temp1": "196.72",
+    "temp2": "24.33",
+    "temp3": "46.57",
+    "temp4": "166.34",
+    "temp5": "76.44",
+    "acceleration": "48.86",
+    "brake": "94.99",
+    "tensionBB": "11.9",
+    "tensionSB": "44.1",
+    "current": "229.3",
+    "speed": "31.0",
+    "GPS": {
+      "Latitude": "891.0723",
+      "Longitutde": "-433.2163"
+    },
+    "time": "13227562232.138756",
+    "RX": 1,
+    "TX": 0,
+    "Archives_BRUT_Values": {
+      "67": {
+        "Value(s)": {
+          "GPS": [
+            -433.2163,
+            891.0723
+          ],
+          "time": 13227562232.138756,
+          "brake": 94.99,
+          "speed": 31,
+          "temp1": 196.72,
+          "temp2": 24.33,
+          "temp3": 46.57,
+          "temp4": 166.34,
+          "temp5": 76.44,
+          "current": 229.3,
+          "tensionBB": 11.9,
+          "tensionSB": 44.1,
+          "acceleration": 48.86
+        }
+      }
+    }
+  },
+  {
+    "id": 8,
+    "temp1": "190.86",
+    "temp2": "47.3",
+    "temp3": "135.94",
+    "temp4": "6.07",
+    "temp5": "143.08",
+    "acceleration": "50.84",
+    "brake": "12.25",
+    "tensionBB": "11.3",
+    "tensionSB": "48.3",
+    "current": "5.8",
+    "speed": "8.0",
+    "GPS": {
+      "Latitude": "403.7608",
+      "Longitutde": "540.1008"
+    },
+    "time": "17136222403.070286",
+    "RX": 1,
+    "TX": 0,
+    "Archives_BRUT_Values": {
+      "68": {
+        "Value(s)": {
+          "GPS": [
+            540.1008,
+            403.7608
+          ],
+          "time": 17136222403.070286,
+          "brake": 12.25,
+          "speed": 8,
+          "temp1": 190.86,
+          "temp2": 47.3,
+          "temp3": 135.94,
+          "temp4": 6.07,
+          "temp5": 143.08,
+          "current": 5.8,
+          "tensionBB": 11.3,
+          "tensionSB": 48.3,
+          "acceleration": 50.84
+        }
+      }
+    }
+  },
+  {
+    "id": 9,
+    "temp1": "8.74",
+    "temp2": "199.82",
+    "temp3": "96.98",
+    "temp4": "69.69",
+    "temp5": "151.27",
+    "acceleration": "74.21",
+    "brake": "0.97",
+    "tensionBB": "12.9",
+    "tensionSB": "44.5",
+    "current": "356.6",
+    "speed": "23.0",
+    "GPS": {
+      "Latitude": "-373.3158",
+      "Longitutde": "-300.6721"
+    },
+    "time": "19727851342.75157",
+    "RX": 1,
+    "TX": 0,
+    "Archives_BRUT_Values": {
+      "69": {
+        "Value(s)": {
+          "GPS": [
+            -300.6721,
+            -373.3158
+          ],
+          "time": 19727851342.75157,
+          "brake": 0.97,
+          "speed": 23,
+          "temp1": 8.74,
+          "temp2": 199.82,
+          "temp3": 96.98,
+          "temp4": 69.69,
+          "temp5": 151.27,
+          "current": 356.6,
+          "tensionBB": 12.9,
+          "tensionSB": 44.5,
+          "acceleration": 74.21
+        }
+      }
+    }
+  },
+  {
+    "id": 10,
+    "temp1": "106.66",
+    "temp2": "197.91",
+    "temp3": "63.55",
+    "temp4": "138.82",
+    "temp5": "48.01",
+    "acceleration": "67.33",
+    "brake": "64.13",
+    "tensionBB": "12.1",
+    "tensionSB": "46.1",
+    "current": "296.0",
+    "speed": "10.0",
+    "GPS": {
+      "Latitude": "494.3151",
+      "Longitutde": "285.8609"
+    },
+    "time": "10711744742.405447",
+    "RX": 1,
+    "TX": 0,
+    "Archives_BRUT_Values": {
+      "70": {
+        "Value(s)": {
+          "GPS": [
+            285.8609,
+            494.3151
+          ],
+          "time": 10711744742.405449,
+          "brake": 64.13,
+          "speed": 10,
+          "temp1": 106.66,
+          "temp2": 197.91,
+          "temp3": 63.55,
+          "temp4": 138.82,
+          "temp5": 48.01,
+          "current": 296,
+          "tensionBB": 12.1,
+          "tensionSB": 46.1,
+          "acceleration": 67.33
+        }
+      }
+    }
+  }
+]
