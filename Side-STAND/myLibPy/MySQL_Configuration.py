@@ -183,7 +183,7 @@ def mergedIntoMySQLForTX(configDB):
   
   if(not dataInTable):
     
-    requete_INSERT_TableTX = "INSERT INTO DATA_TX (alert_Maintenance, start_Chrono, stop_Chrono, time, RX, TX) VALUES (O, 0, 0, 0, 0, 0)"
+    requete_INSERT_TableTX = "INSERT INTO DATA_TX (alert_Maintenance, start_Chrono, stop_Chrono, time, RX, TX) VALUES (O, 0, 0, 0, 0, 1)"
     
     DBMySQL.insertIntoTable(requete_INSERT_TableTX, None )
     
