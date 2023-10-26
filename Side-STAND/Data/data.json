@@ -1421,5 +1421,1237 @@
                 "time": 10711744742.405447
             }
         }
+    },
+    {
+        "71": {
+            "Value(s)": {
+                "GPS": [
+                    910.5185,
+                    -627.8462
+                ],
+                "acceleration": 69.4,
+                "brake": 99.92,
+                "current": 335.0,
+                "speed": 98.0,
+                "temp1": 6.12,
+                "temp2": 8.35,
+                "temp3": 157.7,
+                "temp4": 195.3,
+                "temp5": 165.53,
+                "tensionBB": 12.6,
+                "tensionSB": 46.9,
+                "time": 10903676790.11596
+            }
+        }
+    },
+    {
+        "72": {
+            "Value(s)": {
+                "GPS": [
+                    -361.8942,
+                    847.4985
+                ],
+                "acceleration": 64.41,
+                "brake": 34.89,
+                "current": 365.4,
+                "speed": 18.0,
+                "temp1": 144.94,
+                "temp2": 135.35,
+                "temp3": 48.02,
+                "temp4": 149.38,
+                "temp5": 4.29,
+                "tensionBB": 12.1,
+                "tensionSB": 48.2,
+                "time": 16641690503.01693
+            }
+        }
+    },
+    {
+        "73": {
+            "Value(s)": {
+                "GPS": [
+                    -262.747,
+                    932.4119
+                ],
+                "acceleration": 58.8,
+                "brake": 25.17,
+                "current": 306.2,
+                "speed": 37.0,
+                "temp1": 100.51,
+                "temp2": 11.28,
+                "temp3": 98.25,
+                "temp4": 2.1,
+                "temp5": 51.57,
+                "tensionBB": 11.0,
+                "tensionSB": 45.3,
+                "time": 14475115435.441486
+            }
+        }
+    },
+    {
+        "74": {
+            "Value(s)": {
+                "GPS": [
+                    -694.6488,
+                    -484.2529
+                ],
+                "acceleration": 12.8,
+                "brake": 29.93,
+                "current": 87.0,
+                "speed": 99.0,
+                "temp1": 171.11,
+                "temp2": 110.62,
+                "temp3": 42.27,
+                "temp4": 173.92,
+                "temp5": 85.53,
+                "tensionBB": 11.7,
+                "tensionSB": 46.5,
+                "time": 10469607038.149315
+            }
+        }
+    },
+    {
+        "75": {
+            "Value(s)": {
+                "GPS": [
+                    -449.9647,
+                    112.348
+                ],
+                "acceleration": 81.21,
+                "brake": 81.1,
+                "current": 88.5,
+                "speed": 70.0,
+                "temp1": 176.46,
+                "temp2": 148.74,
+                "temp3": 170.24,
+                "temp4": 182.63,
+                "temp5": 167.47,
+                "tensionBB": 12.3,
+                "tensionSB": 46.0,
+                "time": 12519678860.358696
+            }
+        }
+    },
+    {
+        "76": {
+            "Value(s)": {
+                "GPS": [
+                    -950.7335,
+                    -786.8036
+                ],
+                "acceleration": 38.85,
+                "brake": 4.69,
+                "current": 102.6,
+                "speed": 49.0,
+                "temp1": 80.96,
+                "temp2": 84.44,
+                "temp3": 99.47,
+                "temp4": 145.85,
+                "temp5": 31.01,
+                "tensionBB": 12.6,
+                "tensionSB": 44.0,
+                "time": 10512003233.721807
+            }
+        }
+    },
+    {
+        "77": {
+            "Value(s)": {
+                "GPS": [
+                    -784.4864,
+                    -28.2224
+                ],
+                "acceleration": 79.71,
+                "brake": 71.49,
+                "current": 97.4,
+                "speed": 73.0,
+                "temp1": 159.54,
+                "temp2": 113.0,
+                "temp3": 35.71,
+                "temp4": 65.4,
+                "temp5": 143.26,
+                "tensionBB": 12.9,
+                "tensionSB": 45.4,
+                "time": 16105549138.203922
+            }
+        }
+    },
+    {
+        "78": {
+            "Value(s)": {
+                "GPS": [
+                    935.5826,
+                    -264.2967
+                ],
+                "acceleration": 70.72,
+                "brake": 61.81,
+                "current": 232.0,
+                "speed": 41.0,
+                "temp1": 156.5,
+                "temp2": 98.85,
+                "temp3": 52.25,
+                "temp4": 199.7,
+                "temp5": 189.07,
+                "tensionBB": 12.6,
+                "tensionSB": 47.1,
+                "time": 10087163020.28845
+            }
+        }
+    },
+    {
+        "79": {
+            "Value(s)": {
+                "GPS": [
+                    636.6143,
+                    -707.9159
+                ],
+                "acceleration": 2.59,
+                "brake": 37.18,
+                "current": 47.1,
+                "speed": 88.0,
+                "temp1": 1.24,
+                "temp2": 190.83,
+                "temp3": 62.26,
+                "temp4": 150.72,
+                "temp5": 20.37,
+                "tensionBB": 11.6,
+                "tensionSB": 46.3,
+                "time": 10320282160.27874
+            }
+        }
+    },
+    {
+        "80": {
+            "Value(s)": {
+                "GPS": [
+                    -991.6132,
+                    562.8407
+                ],
+                "acceleration": 42.82,
+                "brake": 32.95,
+                "current": 37.6,
+                "speed": 62.0,
+                "temp1": 150.5,
+                "temp2": 120.33,
+                "temp3": 124.75,
+                "temp4": 49.73,
+                "temp5": 9.15,
+                "tensionBB": 12.6,
+                "tensionSB": 46.3,
+                "time": 11752616356.352535
+            }
+        }
+    },
+    {
+        "81": {
+            "Value(s)": {
+                "GPS": [
+                    655.3671,
+                    628.3788
+                ],
+                "acceleration": 55.83,
+                "brake": 70.64,
+                "current": 246.3,
+                "speed": 14.0,
+                "temp1": 34.22,
+                "temp2": 54.92,
+                "temp3": 189.08,
+                "temp4": 22.64,
+                "temp5": 60.57,
+                "tensionBB": 12.9,
+                "tensionSB": 44.4,
+                "time": 17219045415.635178
+            }
+        }
+    },
+    {
+        "82": {
+            "Value(s)": {
+                "GPS": [
+                    -43.8851,
+                    439.0433
+                ],
+                "acceleration": 5.64,
+                "brake": 48.79,
+                "current": 248.7,
+                "speed": 29.0,
+                "temp1": 125.05,
+                "temp2": 149.47,
+                "temp3": 61.57,
+                "temp4": 115.65,
+                "temp5": 174.83,
+                "tensionBB": 11.5,
+                "tensionSB": 47.1,
+                "time": 10237060200.339691
+            }
+        }
+    },
+    {
+        "83": {
+            "Value(s)": {
+                "GPS": [
+                    713.9852,
+                    148.7476
+                ],
+                "acceleration": 99.38,
+                "brake": 33.82,
+                "current": 101.0,
+                "speed": 9.0,
+                "temp1": 190.75,
+                "temp2": 6.84,
+                "temp3": 98.41,
+                "temp4": 87.28,
+                "temp5": 149.94,
+                "tensionBB": 11.7,
+                "tensionSB": 46.3,
+                "time": 10481558620.81629
+            }
+        }
+    },
+    {
+        "84": {
+            "Value(s)": {
+                "GPS": [
+                    883.1033,
+                    -287.3982
+                ],
+                "acceleration": 2.02,
+                "brake": 19.99,
+                "current": 365.1,
+                "speed": 80.0,
+                "temp1": 100.08,
+                "temp2": 152.56,
+                "temp3": 114.84,
+                "temp4": 168.81,
+                "temp5": 121.79,
+                "tensionBB": 11.3,
+                "tensionSB": 47.5,
+                "time": 18680336759.671616
+            }
+        }
+    },
+    {
+        "85": {
+            "Value(s)": {
+                "GPS": [
+                    -60.4303,
+                    -270.1476
+                ],
+                "acceleration": 68.78,
+                "brake": 35.27,
+                "current": 295.9,
+                "speed": 84.0,
+                "temp1": 16.09,
+                "temp2": 130.84,
+                "temp3": 159.02,
+                "temp4": 174.0,
+                "temp5": 109.94,
+                "tensionBB": 12.2,
+                "tensionSB": 48.1,
+                "time": 10527771440.607504
+            }
+        }
+    },
+    {
+        "86": {
+            "Value(s)": {
+                "GPS": [
+                    -225.5682,
+                    493.8148
+                ],
+                "acceleration": 66.87,
+                "brake": 74.44,
+                "current": 94.6,
+                "speed": 29.0,
+                "temp1": 129.15,
+                "temp2": 159.9,
+                "temp3": 96.94,
+                "temp4": 190.46,
+                "temp5": 6.81,
+                "tensionBB": 11.3,
+                "tensionSB": 45.4,
+                "time": 17841229536.455364
+            }
+        }
+    },
+    {
+        "87": {
+            "Value(s)": {
+                "GPS": [
+                    -126.1148,
+                    175.6567
+                ],
+                "acceleration": 58.52,
+                "brake": 78.87,
+                "current": 191.6,
+                "speed": 70.0,
+                "temp1": 162.26,
+                "temp2": 163.24,
+                "temp3": 124.25,
+                "temp4": 10.94,
+                "temp5": 173.36,
+                "tensionBB": 12.3,
+                "tensionSB": 48.8,
+                "time": 17050499934.322
+            }
+        }
+    },
+    {
+        "88": {
+            "Value(s)": {
+                "GPS": [
+                    990.7328,
+                    -459.9209
+                ],
+                "acceleration": 92.65,
+                "brake": 14.24,
+                "current": 131.8,
+                "speed": 32.0,
+                "temp1": 174.98,
+                "temp2": 146.34,
+                "temp3": 100.28,
+                "temp4": 10.88,
+                "temp5": 160.13,
+                "tensionBB": 12.0,
+                "tensionSB": 46.7,
+                "time": 15487083080.87183
+            }
+        }
+    },
+    {
+        "89": {
+            "Value(s)": {
+                "GPS": [
+                    -866.4996,
+                    -799.6309
+                ],
+                "acceleration": 86.06,
+                "brake": 14.52,
+                "current": 31.7,
+                "speed": 53.0,
+                "temp1": 117.72,
+                "temp2": 190.86,
+                "temp3": 35.09,
+                "temp4": 122.41,
+                "temp5": 2.56,
+                "tensionBB": 11.1,
+                "tensionSB": 48.1,
+                "time": 12915020174.547842
+            }
+        }
+    },
+    {
+        "90": {
+            "Value(s)": {
+                "GPS": [
+                    -317.3287,
+                    -306.5347
+                ],
+                "acceleration": 22.23,
+                "brake": 95.88,
+                "current": 96.5,
+                "speed": 74.0,
+                "temp1": 157.71,
+                "temp2": 91.31,
+                "temp3": 152.28,
+                "temp4": 17.46,
+                "temp5": 197.19,
+                "tensionBB": 11.3,
+                "tensionSB": 45.5,
+                "time": 12350484823.536041
+            }
+        }
+    },
+    {
+        "91": {
+            "Value(s)": {
+                "GPS": [
+                    -868.415,
+                    -895.5011
+                ],
+                "acceleration": 81.13,
+                "brake": 58.7,
+                "current": 336.5,
+                "speed": 61.0,
+                "temp1": 9.23,
+                "temp2": 67.01,
+                "temp3": 108.9,
+                "temp4": 1.66,
+                "temp5": 111.56,
+                "tensionBB": 11.1,
+                "tensionSB": 45.9,
+                "time": 19962184405.42399
+            }
+        }
+    },
+    {
+        "92": {
+            "Value(s)": {
+                "GPS": [
+                    -617.1891,
+                    -618.3241
+                ],
+                "acceleration": 29.28,
+                "brake": 68.18,
+                "current": 292.9,
+                "speed": 65.0,
+                "temp1": 2.89,
+                "temp2": 61.46,
+                "temp3": 77.86,
+                "temp4": 90.75,
+                "temp5": 134.75,
+                "tensionBB": 11.6,
+                "tensionSB": 44.2,
+                "time": 17199161872.367905
+            }
+        }
+    },
+    {
+        "93": {
+            "Value(s)": {
+                "GPS": [
+                    698.0119,
+                    -49.9136
+                ],
+                "acceleration": 11.71,
+                "brake": 39.28,
+                "current": 31.8,
+                "speed": 60.0,
+                "temp1": 20.58,
+                "temp2": 40.89,
+                "temp3": 84.63,
+                "temp4": 8.06,
+                "temp5": 27.49,
+                "tensionBB": 12.2,
+                "tensionSB": 45.3,
+                "time": 18262088399.308716
+            }
+        }
+    },
+    {
+        "94": {
+            "Value(s)": {
+                "GPS": [
+                    -120.0392,
+                    470.8536
+                ],
+                "acceleration": 90.18,
+                "brake": 29.55,
+                "current": 127.7,
+                "speed": 74.0,
+                "temp1": 156.8,
+                "temp2": 42.26,
+                "temp3": 105.59,
+                "temp4": 136.06,
+                "temp5": 55.27,
+                "tensionBB": 11.5,
+                "tensionSB": 46.4,
+                "time": 10665964893.00811
+            }
+        }
+    },
+    {
+        "95": {
+            "Value(s)": {
+                "GPS": [
+                    789.9951,
+                    40.3302
+                ],
+                "acceleration": 11.46,
+                "brake": 6.79,
+                "current": 272.4,
+                "speed": 91.0,
+                "temp1": 4.8,
+                "temp2": 132.95,
+                "temp3": 81.6,
+                "temp4": 55.92,
+                "temp5": 40.73,
+                "tensionBB": 11.5,
+                "tensionSB": 46.3,
+                "time": 15637581050.149323
+            }
+        }
+    },
+    {
+        "96": {
+            "Value(s)": {
+                "GPS": [
+                    863.2728,
+                    485.5854
+                ],
+                "acceleration": 37.4,
+                "brake": 40.84,
+                "current": 332.4,
+                "speed": 80.0,
+                "temp1": 138.68,
+                "temp2": 164.99,
+                "temp3": 151.77,
+                "temp4": 103.82,
+                "temp5": 22.33,
+                "tensionBB": 11.2,
+                "tensionSB": 46.9,
+                "time": 18842552114.630836
+            }
+        }
+    },
+    {
+        "97": {
+            "Value(s)": {
+                "GPS": [
+                    -993.3753,
+                    598.7422
+                ],
+                "acceleration": 0.83,
+                "brake": 99.99,
+                "current": 74.2,
+                "speed": 56.0,
+                "temp1": 196.9,
+                "temp2": 24.55,
+                "temp3": 119.41,
+                "temp4": 172.74,
+                "temp5": 36.92,
+                "tensionBB": 11.7,
+                "tensionSB": 46.3,
+                "time": 18451760739.774082
+            }
+        }
+    },
+    {
+        "98": {
+            "Value(s)": {
+                "GPS": [
+                    224.6768,
+                    -10.7134
+                ],
+                "acceleration": 83.05,
+                "brake": 93.95,
+                "current": 26.7,
+                "speed": 53.0,
+                "temp1": 102.49,
+                "temp2": 36.93,
+                "temp3": 55.1,
+                "temp4": 170.84,
+                "temp5": 155.87,
+                "tensionBB": 11.6,
+                "tensionSB": 48.8,
+                "time": 18725397946.951546
+            }
+        }
+    },
+    {
+        "99": {
+            "Value(s)": {
+                "GPS": [
+                    600.3475,
+                    -468.8891
+                ],
+                "acceleration": 65.38,
+                "brake": 89.49,
+                "current": 395.2,
+                "speed": 19.0,
+                "temp1": 28.92,
+                "temp2": 95.0,
+                "temp3": 87.01,
+                "temp4": 127.19,
+                "temp5": 186.41,
+                "tensionBB": 12.4,
+                "tensionSB": 45.8,
+                "time": 18104299189.93837
+            }
+        }
+    },
+    {
+        "100": {
+            "Value(s)": {
+                "GPS": [
+                    981.1109,
+                    662.7077
+                ],
+                "acceleration": 32.43,
+                "brake": 38.2,
+                "current": 317.7,
+                "speed": 79.0,
+                "temp1": 168.42,
+                "temp2": 13.22,
+                "temp3": 79.25,
+                "temp4": 161.17,
+                "temp5": 102.39,
+                "tensionBB": 12.3,
+                "tensionSB": 44.4,
+                "time": 16624118220.483047
+            }
+        }
+    },
+    {
+        "101": {
+            "Value(s)": {
+                "GPS": [
+                    -652.7951,
+                    -131.9028
+                ],
+                "acceleration": 22.87,
+                "brake": 8.94,
+                "current": 317.1,
+                "speed": 89.0,
+                "temp1": 44.55,
+                "temp2": 182.39,
+                "temp3": 132.71,
+                "temp4": 171.28,
+                "temp5": 55.18,
+                "tensionBB": 11.1,
+                "tensionSB": 47.5,
+                "time": 11818345408.506746
+            }
+        }
+    },
+    {
+        "102": {
+            "Value(s)": {
+                "GPS": [
+                    776.5022,
+                    -564.8446
+                ],
+                "acceleration": 59.43,
+                "brake": 44.57,
+                "current": 306.4,
+                "speed": 62.0,
+                "temp1": 100.04,
+                "temp2": 29.97,
+                "temp3": 135.91,
+                "temp4": 147.9,
+                "temp5": 168.71,
+                "tensionBB": 11.9,
+                "tensionSB": 47.0,
+                "time": 17219063936.0691
+            }
+        }
+    },
+    {
+        "103": {
+            "Value(s)": {
+                "GPS": [
+                    173.8016,
+                    -525.2234
+                ],
+                "acceleration": 48.26,
+                "brake": 3.1,
+                "current": 126.6,
+                "speed": 29.0,
+                "temp1": 28.75,
+                "temp2": 96.51,
+                "temp3": 44.64,
+                "temp4": 195.51,
+                "temp5": 134.75,
+                "tensionBB": 12.6,
+                "tensionSB": 48.8,
+                "time": 19202668248.278572
+            }
+        }
+    },
+    {
+        "104": {
+            "Value(s)": {
+                "GPS": [
+                    651.3864,
+                    913.2686
+                ],
+                "acceleration": 59.95,
+                "brake": 41.6,
+                "current": 301.4,
+                "speed": 92.0,
+                "temp1": 168.2,
+                "temp2": 93.9,
+                "temp3": 125.63,
+                "temp4": 59.42,
+                "temp5": 182.64,
+                "tensionBB": 12.6,
+                "tensionSB": 47.9,
+                "time": 10013203070.8084
+            }
+        }
+    },
+    {
+        "105": {
+            "Value(s)": {
+                "GPS": [
+                    184.7654,
+                    651.0414
+                ],
+                "acceleration": 30.59,
+                "brake": 94.56,
+                "current": 107.2,
+                "speed": 45.0,
+                "temp1": 149.55,
+                "temp2": 114.98,
+                "temp3": 148.64,
+                "temp4": 114.84,
+                "temp5": 165.83,
+                "tensionBB": 11.7,
+                "tensionSB": 48.2,
+                "time": 17253646122.9569
+            }
+        }
+    },
+    {
+        "106": {
+            "Value(s)": {
+                "GPS": [
+                    -704.6148,
+                    339.2212
+                ],
+                "acceleration": 91.88,
+                "brake": 25.68,
+                "current": 251.5,
+                "speed": 74.0,
+                "temp1": 27.28,
+                "temp2": 50.46,
+                "temp3": 82.18,
+                "temp4": 30.3,
+                "temp5": 79.18,
+                "tensionBB": 11.3,
+                "tensionSB": 46.6,
+                "time": 14106691635.678493
+            }
+        }
+    },
+    {
+        "107": {
+            "Value(s)": {
+                "GPS": [
+                    167.0412,
+                    701.8283
+                ],
+                "acceleration": 99.32,
+                "brake": 11.21,
+                "current": 141.1,
+                "speed": 69.0,
+                "temp1": 71.54,
+                "temp2": 169.58,
+                "temp3": 184.78,
+                "temp4": 127.86,
+                "temp5": 69.59,
+                "tensionBB": 12.6,
+                "tensionSB": 48.2,
+                "time": 10445754917.02179
+            }
+        }
+    },
+    {
+        "108": {
+            "Value(s)": {
+                "GPS": [
+                    679.1857,
+                    -688.602
+                ],
+                "acceleration": 17.71,
+                "brake": 29.85,
+                "current": 306.7,
+                "speed": 33.0,
+                "temp1": 132.68,
+                "temp2": 120.97,
+                "temp3": 186.77,
+                "temp4": 29.79,
+                "temp5": 77.93,
+                "tensionBB": 12.7,
+                "tensionSB": 47.4,
+                "time": 19223644212.105003
+            }
+        }
+    },
+    {
+        "109": {
+            "Value(s)": {
+                "GPS": [
+                    -402.2776,
+                    495.6334
+                ],
+                "acceleration": 66.0,
+                "brake": 3.22,
+                "current": 306.3,
+                "speed": 20.0,
+                "temp1": 79.56,
+                "temp2": 11.1,
+                "temp3": 164.85,
+                "temp4": 117.83,
+                "temp5": 135.26,
+                "tensionBB": 12.6,
+                "tensionSB": 47.3,
+                "time": 17651282136.91996
+            }
+        }
+    },
+    {
+        "110": {
+            "Value(s)": {
+                "GPS": [
+                    -567.3389,
+                    -30.0054
+                ],
+                "acceleration": 49.89,
+                "brake": 17.74,
+                "current": 146.9,
+                "speed": 16.0,
+                "temp1": 97.09,
+                "temp2": 151.16,
+                "temp3": 51.84,
+                "temp4": 115.14,
+                "temp5": 175.75,
+                "tensionBB": 11.6,
+                "tensionSB": 45.2,
+                "time": 17129140427.345568
+            }
+        }
+    },
+    {
+        "111": {
+            "Value(s)": {
+                "GPS": [
+                    -690.616,
+                    733.1745
+                ],
+                "acceleration": 38.27,
+                "brake": 97.29,
+                "current": 258.2,
+                "speed": 27.0,
+                "temp1": 91.11,
+                "temp2": 21.23,
+                "temp3": 16.58,
+                "temp4": 140.17,
+                "temp5": 171.92,
+                "tensionBB": 12.8,
+                "tensionSB": 46.5,
+                "time": 11366123197.685377
+            }
+        }
+    },
+    {
+        "112": {
+            "Value(s)": {
+                "GPS": [
+                    -682.7992,
+                    -85.9323
+                ],
+                "acceleration": 38.35,
+                "brake": 72.31,
+                "current": 97.7,
+                "speed": 83.0,
+                "temp1": 147.26,
+                "temp2": 8.02,
+                "temp3": 158.17,
+                "temp4": 10.75,
+                "temp5": 151.71,
+                "tensionBB": 12.8,
+                "tensionSB": 48.7,
+                "time": 17339962925.669975
+            }
+        }
+    },
+    {
+        "113": {
+            "Value(s)": {
+                "GPS": [
+                    760.5692,
+                    -329.5456
+                ],
+                "acceleration": 10.35,
+                "brake": 14.84,
+                "current": 77.0,
+                "speed": 20.0,
+                "temp1": 147.33,
+                "temp2": 4.65,
+                "temp3": 153.01,
+                "temp4": 109.81,
+                "temp5": 86.78,
+                "tensionBB": 11.1,
+                "tensionSB": 46.8,
+                "time": 14550703158.060757
+            }
+        }
+    },
+    {
+        "114": {
+            "Value(s)": {
+                "GPS": [
+                    -638.5395,
+                    863.4134
+                ],
+                "acceleration": 94.27,
+                "brake": 66.41,
+                "current": 358.3,
+                "speed": 97.0,
+                "temp1": 99.67,
+                "temp2": 4.05,
+                "temp3": 75.45,
+                "temp4": 102.3,
+                "temp5": 124.92,
+                "tensionBB": 12.4,
+                "tensionSB": 46.3,
+                "time": 15696087398.972378
+            }
+        }
+    },
+    {
+        "115": {
+            "Value(s)": {
+                "GPS": [
+                    910.4012,
+                    -797.3552
+                ],
+                "acceleration": 7.13,
+                "brake": 63.94,
+                "current": 110.2,
+                "speed": 59.0,
+                "temp1": 36.72,
+                "temp2": 107.17,
+                "temp3": 130.69,
+                "temp4": 113.06,
+                "temp5": 27.54,
+                "tensionBB": 11.6,
+                "tensionSB": 45.7,
+                "time": 18753040682.50048
+            }
+        }
+    },
+    {
+        "116": {
+            "Value(s)": {
+                "GPS": [
+                    -644.7884,
+                    -501.1786
+                ],
+                "acceleration": 61.18,
+                "brake": 20.09,
+                "current": 185.3,
+                "speed": 33.0,
+                "temp1": 133.49,
+                "temp2": 177.68,
+                "temp3": 168.95,
+                "temp4": 136.15,
+                "temp5": 126.64,
+                "tensionBB": 12.8,
+                "tensionSB": 45.8,
+                "time": 11813001807.385866
+            }
+        }
+    },
+    {
+        "117": {
+            "Value(s)": {
+                "GPS": [
+                    -328.5113,
+                    -235.4703
+                ],
+                "acceleration": 64.92,
+                "brake": 31.71,
+                "current": 239.1,
+                "speed": 59.0,
+                "temp1": 136.87,
+                "temp2": 35.07,
+                "temp3": 8.07,
+                "temp4": 11.89,
+                "temp5": 183.79,
+                "tensionBB": 12.6,
+                "tensionSB": 46.1,
+                "time": 19758506731.614746
+            }
+        }
+    },
+    {
+        "118": {
+            "Value(s)": {
+                "GPS": [
+                    800.637,
+                    -938.2852
+                ],
+                "acceleration": 93.75,
+                "brake": 16.28,
+                "current": 41.0,
+                "speed": 48.0,
+                "temp1": 94.09,
+                "temp2": 56.52,
+                "temp3": 79.19,
+                "temp4": 166.3,
+                "temp5": 135.97,
+                "tensionBB": 12.5,
+                "tensionSB": 47.3,
+                "time": 17077353066.69326
+            }
+        }
+    },
+    {
+        "119": {
+            "Value(s)": {
+                "GPS": [
+                    267.8089,
+                    -82.3045
+                ],
+                "acceleration": 19.66,
+                "brake": 0.11,
+                "current": 353.9,
+                "speed": 90.0,
+                "temp1": 198.99,
+                "temp2": 191.04,
+                "temp3": 150.05,
+                "temp4": 89.66,
+                "temp5": 78.66,
+                "tensionBB": 11.9,
+                "tensionSB": 45.0,
+                "time": 14736506784.696568
+            }
+        }
+    },
+    {
+        "120": {
+            "Value(s)": {
+                "GPS": [
+                    -571.1625,
+                    -340.7006
+                ],
+                "acceleration": 22.81,
+                "brake": 14.79,
+                "current": 359.2,
+                "speed": 82.0,
+                "temp1": 105.3,
+                "temp2": 42.76,
+                "temp3": 7.49,
+                "temp4": 75.66,
+                "temp5": 100.9,
+                "tensionBB": 11.6,
+                "tensionSB": 44.8,
+                "time": 12828829556.790451
+            }
+        }
+    },
+    {
+        "121": {
+            "Value(s)": {
+                "GPS": [
+                    561.6796,
+                    -542.9119
+                ],
+                "acceleration": 94.28,
+                "brake": 65.58,
+                "current": 103.1,
+                "speed": 45.0,
+                "temp1": 159.21,
+                "temp2": 116.6,
+                "temp3": 26.64,
+                "temp4": 4.23,
+                "temp5": 198.33,
+                "tensionBB": 12.7,
+                "tensionSB": 48.2,
+                "time": 11000659359.863333
+            }
+        }
+    },
+    {
+        "122": {
+            "Value(s)": {
+                "GPS": [
+                    539.3948,
+                    880.4106
+                ],
+                "acceleration": 16.89,
+                "brake": 15.9,
+                "current": 6.9,
+                "speed": 45.0,
+                "temp1": 64.03,
+                "temp2": 92.72,
+                "temp3": 158.62,
+                "temp4": 39.74,
+                "temp5": 86.5,
+                "tensionBB": 12.0,
+                "tensionSB": 48.5,
+                "time": 14008432146.02982
+            }
+        }
+    },
+    {
+        "123": {
+            "Value(s)": {
+                "GPS": [
+                    663.5785,
+                    -380.9981
+                ],
+                "acceleration": 4.17,
+                "brake": 79.48,
+                "current": 75.7,
+                "speed": 80.0,
+                "temp1": 78.28,
+                "temp2": 116.3,
+                "temp3": 193.6,
+                "temp4": 64.23,
+                "temp5": 170.71,
+                "tensionBB": 11.1,
+                "tensionSB": 46.4,
+                "time": 15369080763.099194
+            }
+        }
+    },
+    {
+        "124": {
+            "Value(s)": {
+                "GPS": [
+                    334.7732,
+                    -655.2379
+                ],
+                "acceleration": 52.13,
+                "brake": 52.03,
+                "current": 350.4,
+                "speed": 57.0,
+                "temp1": 81.27,
+                "temp2": 155.84,
+                "temp3": 107.87,
+                "temp4": 13.42,
+                "temp5": 14.22,
+                "tensionBB": 11.9,
+                "tensionSB": 46.9,
+                "time": 19869742164.867947
+            }
+        }
+    },
+    {
+        "125": {
+            "Value(s)": {
+                "GPS": [
+                    882.121,
+                    379.8965
+                ],
+                "acceleration": 82.37,
+                "brake": 27.44,
+                "current": 13.1,
+                "speed": 58.0,
+                "temp1": 107.91,
+                "temp2": 129.89,
+                "temp3": 65.09,
+                "temp4": 181.04,
+                "temp5": 33.99,
+                "tensionBB": 11.5,
+                "tensionSB": 45.8,
+                "time": 13908395987.17371
+            }
+        }
+    },
+    {
+        "126": {
+            "Value(s)": {
+                "GPS": [
+                    -531.7207,
+                    898.5474
+                ],
+                "acceleration": 6.94,
+                "brake": 55.25,
+                "current": 381.0,
+                "speed": 78.0,
+                "temp1": 25.6,
+                "temp2": 75.56,
+                "temp3": 125.24,
+                "temp4": 59.29,
+                "temp5": 169.17,
+                "tensionBB": 12.7,
+                "tensionSB": 47.2,
+                "time": 14645123313.871658
+            }
+        }
     }
 ]

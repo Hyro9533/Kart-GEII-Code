@@ -72,16 +72,23 @@ while LOOP == True:
   ##
   
   #Put in MySQL
+  #mergedIntoMySQLForRX(configRzunner.MySQL,dataFromKart, listOfSensorsAccordingWithData, jsonFormated)
+  
+  dataFromDocker = mergedIntoMySQLForTX(configRunner.MySQL)
+  
+  if(dataFromDocker != None):
+    
+    
+    
+    LoraConnectionWireless = lora_RN2483.LoRa_RN2483()
+
+    LoraConnectionWireless.config()
+    LoraConnectionWireless.tx(dataFromDocker)
+    
+    print("Encodage à modifier ICI ???????", dataFromDocker)
  
-  mergedIntoMySQLForRX(configRunner.MySQL,dataFromKart, listOfSensorsAccordingWithData, jsonFormated)
+  
   ##
-  
-  
-  
-  
-  
-  
-  
   
   print("Loop Program for TX")
   #To Code !
