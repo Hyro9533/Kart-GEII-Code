@@ -21,10 +21,6 @@ from myLibPy.MySQL_Configuration import mergedIntoMySQLForTX
 
 import configRunner #Keys for MONTGUILLON
 
-#Library Python
-import random
-##End oF Libraries
-
 
 ##Installing Package 
 
@@ -78,8 +74,17 @@ while LOOP == True:
   #Put in MySQL
  
   mergedIntoMySQLForRX(configRunner.MySQL,dataFromKart, listOfSensorsAccordingWithData, jsonFormated)
+  ##
+  
+  
+  
+  
+  
+  
+  
   
   print("Loop Program for TX")
+  #To Code !
   
   
   

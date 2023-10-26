@@ -147,15 +147,9 @@ def mergedIntoMySQLForTX(configDB, values, keys, JSONBrut):
   MySQL.createTable(requete_CREATE_TableTX, None)
   
   #To Code There, send value when the alert_Maintenance is HIGH !
+  # SELECT --> CHECK-LOCAL --> UPDATE
   
   DBMySQL.close()
   
-
-  
-
-##GROS INSERT INTO TABLE for RX ....
-
-##GROS UPDATE INTO TABLE FOR TX
-
 
 
