@@ -138,7 +138,8 @@ def mergedIntoMySQLForRX(configDB, values, keys, JSONBrut):
       tensionSB CHAR(30),\
       current CHAR(30),\
       speed CHAR(30),\
-      GPS JSON, \
+      GPS_Latitude CHAR(30), \
+      GPS_Longitude CHAR(30), \
       time CHAR(30), \
       RX bool default FALSE,\
       TX bool default FALSE,\
@@ -147,12 +148,10 @@ def mergedIntoMySQLForRX(configDB, values, keys, JSONBrut):
 
   DBMySQL.createTable(requete_CREATE_TableRX, None )
   
-  requete_INSERT_TableRX = "INSERT INTO DATA_RX (temp1, temp2, temp3, temp4, temp5, acceleration, brake, tensionBB, tensionSB, current, speed, GPS, time, RX, TX, Archives_BRUT_Values) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+  requete_INSERT_TableRX = "INSERT INTO DATA_RX (temp1, temp2, temp3, temp4, temp5, acceleration, brake, tensionBB, tensionSB, current, speed, GPS_Longitude, GPS_Latitude, time, RX, TX, Archives_BRUT_Values) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
   
   
-  dictForGPS = { "Longitutde" : str(values[11][0]), "Latitude" : str(values[11][1])}
-  
-  DBMySQL.insertIntoTable(requete_INSERT_TableRX, (values[0], values[1], values[2], values[3], values[4], values[5], values[6], values[7], values[8], values[9], values[10], json.dumps(dictForGPS, indent=4), values[12], 1, 0, json.dumps(JSONBrut, indent=4) ) )
+  DBMySQL.insertIntoTable(requete_INSERT_TableRX, (values[0], values[1], values[2], values[3], values[4], values[5], values[6], values[7], values[8], values[9], values[10], values[11][0], values[11][1], values[12], 1, 0, json.dumps(JSONBrut, indent=4) ) )
   
   DBMySQL.close()
 

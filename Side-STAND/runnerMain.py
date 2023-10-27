@@ -72,7 +72,7 @@ while LOOP == True:
   ##
   
   #Put in MySQL
-  #mergedIntoMySQLForRX(configRzunner.MySQL,dataFromKart, listOfSensorsAccordingWithData, jsonFormated)
+  mergedIntoMySQLForRX(configRunner.MySQL,dataFromKart, listOfSensorsAccordingWithData, jsonFormated)
   
   dataFromDocker = mergedIntoMySQLForTX(configRunner.MySQL)
   
